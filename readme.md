@@ -1,2 +1,3 @@
-const mensagem = "bom tever aqui"
-alert(mensagem + (10 * 100) + "abraços")
+<h1>Projeto Maratona Explorer<h1>
+  <br>
+  
